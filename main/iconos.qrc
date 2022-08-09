@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>iconos/dato.png</file>
+        <file>iconos/conectar.png</file>
+        <file>iconos/desconectar.png</file>
+        <file>iconos/Crear.png</file>
+        <file>iconos/barra-lateral.png</file>
+        <file>iconos/R.png</file>
+        <file>iconos/ruta.png</file>
+        <file>iconos/archivo-txt.png</file>
+        <file>iconos/csv.png</file>
+        <file>iconos/query-analysis.png</file>
+        <file>iconos/run.png</file>
+        <file>iconos/orden-ascendente.png</file>
+        <file>iconos/orden-descendiente.png</file>
+        <file>iconos/base-de-datos.png</file>
+        <file>iconos/tabla.png</file>
+        <file>iconos/database.png</file>
+        <file>iconos/configuraciones.png</file>
+        <file>iconos/flecha-hacia-abajo.png</file>
+        <file>iconos/flecha-hacia-arriba.png</file>
+        <file>iconos/mas.png</file>
+        <file>iconos/menos.png</file>
+        <file>iconos/editar.png</file>
+        <file>iconos/eliminar.png</file>
+        <file>iconos/informacion.png</file>
+    </qresource>
+</RCC>
